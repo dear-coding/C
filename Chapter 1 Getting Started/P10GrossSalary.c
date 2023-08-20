@@ -3,7 +3,7 @@
  * https://www.youtube.com/@DearCoding */
 
 💜 Watch All Chapters PLAYLIST On YouTube 💜  
-....
+https://www.youtube.com/playlist?list=PLdBju4Bv7C3B2ZSf2gzE0Epd3d668VIGP 
 
 #include<stdio.h>
 
