@@ -37,7 +37,7 @@ int main() {
 }
 
 // You have better code??
-// Don't keep it to yourself, 
+// Don't keep it to just yourself, 
 // Share it wtih the Coding World.
 PUSH YOUR CHNAGES HERE!!💜💜💜
 // The chnages will be visible on your profile.
